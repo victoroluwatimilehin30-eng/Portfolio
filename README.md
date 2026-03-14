@@ -1,10 +1,10 @@
 # Oluwatimilehin Arifalo Portfolio
 
-Personal portfolio website for **Oluwatimilehin Arifalo** — a Medical and Pharmaceutical Sales Professional transitioning into **Data Analytics**.
+Personal portfolio website for **Oluwatimilehin Arifalo** - a Medical and Pharmaceutical Sales Professional transitioning into **Data Analytics**.
 
 ## About
 
-Oluwatimilehin is an empathetic and results-driven sales professional with over five years of experience in sales and customer-facing roles within the Medical and Pharmaceutical industries. Passionate about continuous growth, I am currently upskilling in Data Analytics to delve into the tech space and broaden her impact.
+Oluwatimilehin is an empathetic and results-driven sales professional with over five years of experience in sales and customer-facing roles within the Medical and Pharmaceutical industries. Passionate about continuous growth, I am currently upskilling in Data Analytics to delve into the tech space and broaden my impact.
 
 ## Portfolio Highlights
 
